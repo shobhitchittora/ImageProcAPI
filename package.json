@@ -2,11 +2,11 @@
   "name": "ImageProcAPI",
   "version": "1.0.0",
   "description": "API for basic image processing tasks",
-  "main": "index.js",
+  "main": "server.js",
   "author": "Shobhit Chittora",
   "license": "MIT",
   "scripts":{
-    "start": "node app"
+    "start": "node server.js"
     },
   "dependencies": {
     "async": "^1.4.2",
